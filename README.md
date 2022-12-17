@@ -247,4 +247,6 @@ Testnet api - **https://test-api.honefi.app/api**
 
 We have implemented a real-time price display (chart and other elements that contain the price of) for auctions (tokens and nft) by using WebSockets, which are currently publicly available - **wss://api.honefi.app/socket/$**. You can check the charts in real time on any active dropbox - https://honefi.app/drops or https://honefi.app/tokens
 
-We have launched a WAX node for our platform, RPC at the moment - https://wax.honefi.app/. We actively use the node to get all the necessary data for the platform
+We have launched a WAX node for our platform, RPC at the moment - https://wax.honefi.app/. We actively use the node to get all the necessary data for the platform. 
+
+We moved the platform to the main network and also added support for testnet. Currently WAX mainnet is located at https://honefi.app/, WAX testnet at https://wax-test.honefi.app/.
